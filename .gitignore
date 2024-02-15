@@ -1,0 +1,6 @@
+appsettings.Development.json 
+.env 
+*.exe 
+*.dll 
+/bin 
+/obj 
